@@ -162,7 +162,7 @@ a {
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgba(254, 209, 54, 0.9); }
+      background: rgba(66, 196, 220, 0.8); }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
       #portfolio .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -240,7 +240,7 @@ a {
   width: 75px;
   height: 75px;
   cursor: pointer;
-  background-color: transparent; }
+  background-color: black; }
   .portfolio-modal .close-modal:hover {
     opacity: 0.3; }
   .portfolio-modal .close-modal .lr {
@@ -253,7 +253,7 @@ a {
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
-    background-color: #222222; }
+    background-color: black; }
     .portfolio-modal .close-modal .lr .rl {
       /* Safari and Chrome */
       z-index: 1052;
@@ -263,7 +263,7 @@ a {
       -webkit-transform: rotate(90deg);
       -ms-transform: rotate(90deg);
       transform: rotate(90deg);
-      background-color: #222222; }
+      background-color: black; }
 
 .portfolio-modal .modal-backdrop {
   display: none;
