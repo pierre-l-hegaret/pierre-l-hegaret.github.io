@@ -1,5 +1,6 @@
 @import 'variables.scss';
 @import 'mixins.scss';
+@import "portfolio.scss";
 body {
   font-family: 'Lora', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 
@@ -197,9 +198,9 @@ a {
   padding-bottom: 150px;
 }
 
-.projects-section {
+.contact-section {
   color: white;
-  background: url('../img/projects_bg.jpg') no-repeat center center scroll;
+  background: url('../img/contact_bg.jpg') no-repeat center center scroll;
   background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
