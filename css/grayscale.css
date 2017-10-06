@@ -184,7 +184,7 @@ a {
     margin: 0 auto;
     padding: 25px;
     text-align: center;
-    background-color: white; }
+    background-color: black; }
     #portfolio .portfolio-item .portfolio-caption h4 {
       margin: 0;
       text-transform: none; }
@@ -192,7 +192,7 @@ a {
       font-size: 16px;
       font-style: italic;
       margin: 0;
-      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+      font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
 
 #portfolio * {
   z-index: 2; }
@@ -224,7 +224,7 @@ a {
     font-size: 16px;
     font-style: italic;
     margin: 20px 0 30px;
-    font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+    font-family: 'Cabin', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
   .portfolio-modal .modal-content ul.list-inline {
     margin-top: 0;
     margin-bottom: 30px; }
@@ -240,7 +240,7 @@ a {
   width: 75px;
   height: 75px;
   cursor: pointer;
-  background-color: black; }
+  background-color: transparent; }
   .portfolio-modal .close-modal:hover {
     opacity: 0.3; }
   .portfolio-modal .close-modal .lr {
